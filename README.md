@@ -1,5 +1,5 @@
 # Mips-pipeline-CPU
-A 5-stage pipeline CPU that supports 50 MIPS instructions with VHDL.
+A 5-stage pipeline CPU that supports 50 MIPS instructions with Verilog.
 
 
 ## structure:
